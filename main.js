@@ -42,6 +42,8 @@ whiteTile.classList.add("white");
 allTheTiles.appendChild(whiteTile);
 
   
+let isMapping = false;
 
+if(isMapping === true){}
   
  
